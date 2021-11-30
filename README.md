@@ -1,1 +1,1 @@
-![Metrics](https://github.com/HuckinB/HuckinB/blob/main/github-metrics.svg)
+![](https://github.com/HuckinB/HuckinB/blob/master/github-metrics.svg)
