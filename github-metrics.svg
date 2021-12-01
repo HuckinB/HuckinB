@@ -1478,7 +1478,7 @@ PHP - JS Developer
           </div>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/></svg>
-            40 issue comments
+            41 issue comments
           </div>
                     </section>
                     <section>
@@ -3765,6 +3765,25 @@ PHP - JS Developer
                                 </div>
                                 <div class="details">
                                     <div>opened by roger-net in <span class="repo">AzuraCast/AzuraCast</span></div>
+                                    <div class="comment">@SlvrEagle23 I can confirm our Jingle Ads were played and no Duplicate Song Entry has been logged. :)
+
+Great Work <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><path fill="#DD2E44" d="M35.885 11.833c0-5.45-4.418-9.868-9.867-9.868-3.308 0-6.227 1.633-8.018 4.129-1.791-2.496-4.71-4.129-8.017-4.129-5.45 0-9.868 4.417-9.868 9.868 0 .772.098 1.52.266 2.241C1.751 22.587 11.216 31.568 18 34.034c6.783-2.466 16.249-11.447 17.617-19.959.17-.721.268-1.469.268-2.242z"/></svg>
+</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                      Commented on <span class="issue">#4777 Songs are repeated in a short amount of time</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by roger-net in <span class="repo">AzuraCast/AzuraCast</span></div>
                                     <div class="comment"><i>
 @HuckinB Try with the latest update. I identified a possible source of this problem.
 </i>
@@ -3827,26 +3846,6 @@ Okay, so I can confirm the song that is played with no source is an Advert.
 I'm also noticing with each of these that the second instance of the song playing shows it has no playlist, which means AzuraCast didn't recognize it when it was played from the queue.
 </i>
 Yes of course. Just let me know what you need
-</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                      Commented on <span class="issue">#4777 Songs are repeated in a short amount of time</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by roger-net in <span class="repo">AzuraCast/AzuraCast</span></div>
-                                    <div class="comment">^ Can confirm we are having the same issue
-Version: Rolling Release #47d595f
-
-CC: @KylePython
 </div>
                                 </div>
                             </section>
