@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2571" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2888" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.tracklist{display:flex;flex-direction:column;align-items:flex-start;margin-left:28px;margin-top:4px;width:100%}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600}.track .artist,.track .name{width:387px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.track .artist,.track .played-at{font-size:12px;color:#666}.track .infos{flex-grow:1}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.label .twemoji{margin-top:.25em;margin-left:0}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.tracklist{display:flex;flex-direction:column;align-items:flex-start;margin-left:28px;margin-top:4px;width:100%}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600}.track .artist,.track .name{width:387px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.track .artist,.track .played-at{font-size:12px;color:#666}.track .infos{flex-grow:1}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.twemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -319,7 +319,7 @@ PHP - JS Developer</div>
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 28 commits)</small>
+                    <small class="h-details">(computed from last 29 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -2530,6 +2530,490 @@ PHP - JS Developer</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 981 commits in
+                                        <span class="repo">HuckinB/Presences</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#cb26815</div>
+                                        <div class="message">delete(LangStrings): remove LangStrings Interfaces (#4822)
+
+* delete(LangStrings): removed LangStrings Interfaces
+
+Presence.getStrings() returns every string as a string
+
+* chore(ESLint): fixed issues</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d5fee55</div>
+                                        <div class="message">Added MangaReader.to presence. (#4813)
+
+* Changed version for minor update.
+
+* Changed smallImageText, updated URL verification.
+
+* Update presence.ts
+
+* Fixed the order of detail and state (reversed)
+
+* Updated version for small fix
+
+* Added MangaReader.to presence.
+
+* chore(MangaReader): fixed eslint &amp; prettified
+
+Co-authored-by: Rhys &lt;64903135+EncryptedDev@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f55e6a5</div>
+                                        <div class="message">Recode Tidal presence (#4812)
+
+* Recode Tidal presence
+
+* Add languages setting
+
+* Update presence.ts
+
+* Update metadata.json
+
+* Update metadata.json
+
+* chore(Tidal): fixed eslint errors
+
+eqeqeq
+
+Co-authored-by: Rhys &lt;64903135+EncryptedDev@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4d5be62</div>
+                                        <div class="message">
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#3E721D" d="M30.001 29c-.348 0-.685-.181-.869-.504l-4.235-6.976c-.274-.479-.167-1.079.312-1.354l4.958-3c.156-.089.496-.166.664-.166.348 0 .672.198.856.521l3.107 5.122.164 2.232c.274.479-.958 1.184-1.438 1.458l-3.025 2.535c-.155.09-.326.132-.494.132z"/>
+                                                <path fill="#77B255" d="M23 32c-.553 0-1-.447-1-1v-6c0-.553.447-1 1-1h10c1.85 0 1.55-1.781 1.55-1.781s.327.562.375.651c.327.614.544 1.552.034 2.505l-3.089 6.122c-.145.289-.491.503-.87.503h-8z"/>
+                                                <path fill="#77B255" d="M22 35c-.26 0-.516-.102-.707-.293l-6-6c-.391-.391-.391-1.023 0-1.414l6-6c.191-.191.447-.293.707-.293.129 0 .259.024.383.076.374.154.617.52.617.924v12c0 .404-.243.77-.617.924-.124.052-.254.076-.383.076z"/>
+                                                <path fill="#3E721D" d="M20.593 3.299c.158.31.15.692-.054 1.004l-4.293 6.94c-.303.463-.886.639-1.348.336L9.974 8.525c-.15-.099-.374-.367-.45-.516-.158-.31-.129-.688.075-1l3.152-5.094L14.665.756c.303-.463 1.49.315 1.953.619l3.631 1.544c.152.099.268.232.344.38z"/>
+                                                <path fill="#77B255" d="M26.444 8.175c.251.493.057 1.094-.437 1.346l-5.347 2.724c-.492.25-1.094.055-1.344-.437l-4.542-8.91c-.839-1.649-2.29-.573-2.29-.573s.352-.546.41-.63c.399-.57 1.135-1.188 2.216-1.167L21.969.5c.324 0 .671.209.844.547l3.631 7.128z"/>
+                                                <path fill="#77B255" d="M29.571 7.705c.118.231.143.505.06.762l-2.621 8.071c-.17.525-.734.812-1.26.642l-8.07-2.623c-.258-.083-.464-.265-.583-.496-.059-.114-.096-.242-.107-.376-.032-.404.184-.786.544-.969l10.692-5.448c.36-.184.795-.134 1.103.13.103.086.184.192.242.307z"/>
+                                                <path fill="#3E721D" d="M3.375 24.542c.181-.297.51-.49.882-.479l8.161.005c.553.017 1.009.42.995.972l-.014 5.795c-.005.18-.116.512-.203.654-.181.297-.519.472-.891.461l-5.99-.008-1.993-1.019c-.551-.017-.513-1.435-.499-1.986l-.593-3.904c.004-.179.058-.348.145-.491z"/>
+                                                <path fill="#77B255" d="M4.451 17.002c.287-.472.902-.622 1.374-.335l5.126 3.119c.473.287.622.901.335 1.374l-5.197 8.543c-.96 1.58.717 2.25.717 2.25s-.65-.014-.751-.02c-.696-.038-1.609-.341-2.159-1.271L.27 24.842c-.171-.275-.174-.682.023-1.006l4.158-6.834z"/>
+                                                <path fill="#77B255" d="M2.407 14.589c.136-.224.355-.388.618-.454l8.245-2.006c.537-.132 1.077.197 1.208.734l2.007 8.244c.064.264.017.534-.118.757-.066.109-.155.208-.264.288-.326.238-.764.256-1.11.046l-10.25-6.235c-.346-.211-.531-.609-.469-1.008.02-.134.066-.256.133-.366z"/>
+                                            </svg>
+                                            Refactoring (#4818)
+
+Signed-off-by: SeMiD &lt;contact@premid.app&gt;
+
+Co-authored-by: SeMiD &lt;contact@premid.app&gt;
+                                        </div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a684b8c</div>
+                                        <div class="message">Update Blockbench and OMG! Ubuntu! (#4815)
+
+* refactor(websites/blockbench): changes for new design
+chore(websites/omgubuntu): move selector variables inside of event
+
+* chore(websites/omgubuntu): bump version</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a51d833</div>
+                                        <div class="message">Fix Platzi UI Changes (#4819)
+
+* Fix Platzi UI Changes
+
+* Bump version to 1.0.6</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9bccaa2</div>
+                                        <div class="message">Nanahen Presence (#4755)
+
+* Nanahen.com
+
+* Fix missing semicolon
+
+* Change label
+
+* change thumbnail
+
+* Change bookmark to bookmarks
+
+Co-authored-by: Rhys &lt;64903135+EncryptedDev@users.noreply.github.com&gt;
+
+* Removed unwanted character
+
+Co-authored-by: Rhys &lt;64903135+EncryptedDev@users.noreply.github.com&gt;
+
+* Removed unwanted character
+
+Co-authored-by: Rhys &lt;64903135+EncryptedDev@users.noreply.github.com&gt;
+
+* Removed unwanted character
+
+Co-authored-by: Rhys &lt;64903135+EncryptedDev@users.noreply.github.com&gt;
+
+* Removed unwanted character
+
+Co-authored-by: Rhys &lt;64903135+EncryptedDev@users.noreply.github.com&gt;
+
+* Removed unwanted character
+
+Co-authored-by: Rhys &lt;64903135+EncryptedDev@users.noreply.github.com&gt;
+
+* change nameclass
+
+* Update presence.ts
+
+* style
+
+* style(Nanahen)
+
+Inappropriate use of back quotes, substituted for double quotes
+
+* add else
+
+* Indent
+
+Co-authored-by: Rhys &lt;64903135+EncryptedDev@users.noreply.github.com&gt;
+Co-authored-by: Slowlife &lt;slowlife1165@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#65610bc</div>
+                                        <div class="message">Updated Khan Academy presence. (#4810)
+
+* Changed version for minor update.
+
+* Changed smallImageText, updated URL verification.
+
+* Update presence.ts
+
+* Fixed the order of detail and state (reversed)
+
+* Updated version for small fix</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dcfc68d</div>
+                                        <div class="message">feat(Facebook): update few things (#4811)
+
+* feat(Facebook): update few things
+
+feat(Facebook)
+
+add settings
+
+yes
+
+* fix(*)
+
+* chore: add myself as contributor</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8a850e6</div>
+                                        <div class="message">Added Reaper Scans presence (#4794)
+
+* Added Reaper Scans presence
+
+* Removed useless variable declaration
+
+* Removed line breaks
+
+* Removed variables for button objects
+
+* Removed another button variable
+
+Co-authored-by: Marko Pejanovic &lt;marko.pejanovic@amplitudo.me&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#502e538</div>
+                                        <div class="message">refactor(websites/omgubuntu): some changes due to new design &amp; update metadata and clientId (#4808)
+
+* refactor(websites/omgubuntu): some changes due to new design &amp; update metadata and clientId
+
+* Update websites/O/OMG! Ubuntu!/dist/metadata.json
+
+Co-authored-by: Rhys &lt;64903135+EncryptedDev@users.noreply.github.com&gt;
+
+Co-authored-by: Rhys &lt;64903135+EncryptedDev@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4c51501</div>
+                                        <div class="message">Added Manganato presece (#4798)
+
+* Added Manganato presece
+
+* Fixed requested changes and changed logo</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a1aa211</div>
+                                        <div class="message">Updated Khan Academy presence. (#4807)
+
+* Changed version for minor update.
+
+* Changed smallImageText, updated URL verification.
+
+* Update presence.ts</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fc1dc6b</div>
+                                        <div class="message">fix(iHeartRadio) (#4792)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2c98f0f</div>
+                                        <div class="message">feat: Remove me as an author from files (#4802)
+
+* feat(presences): Remove me as an author
+
+* feat: Remove me from translator.ts and CONTRIBUTING
+
+* chore: Bump versions</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a76406c</div>
+                                        <div class="message">Added mgservers presence (#4768)
+
+* Added mgservers presence
+
+* Fixed spaces
+
+* Update websites/M/MGServers/dist/metadata.json
+
+Co-authored-by: Rhys &lt;64903135+EncryptedDev@users.noreply.github.com&gt;
+
+* Update websites/M/MGServers/dist/metadata.json
+
+Co-authored-by: Rhys &lt;64903135+EncryptedDev@users.noreply.github.com&gt;
+
+* Update websites/M/MGServers/dist/metadata.json
+
+Co-authored-by: Rhys &lt;64903135+EncryptedDev@users.noreply.github.com&gt;
+
+* Update websites/M/MGServers/presence.ts
+
+Co-authored-by: Rhys &lt;64903135+EncryptedDev@users.noreply.github.com&gt;
+
+* Update websites/M/MGServers/presence.ts
+
+Co-authored-by: Rhys &lt;64903135+EncryptedDev@users.noreply.github.com&gt;
+
+* changed "let" to "const"
+
+* merged with line above
+
+* merged some stuff
+
+* camelCase
+
+* Update websites/M/MGServers/presence.ts
+
+Co-authored-by: Rhys &lt;64903135+EncryptedDev@users.noreply.github.com&gt;
+
+* Update websites/M/MGServers/presence.ts
+
+Co-authored-by: Rhys &lt;64903135+EncryptedDev@users.noreply.github.com&gt;
+
+* updaaate
+
+* fix Trailing whitespace
+
+* Update websites/M/MGServers/presence.ts
+
+Co-authored-by: Rhys &lt;64903135+EncryptedDev@users.noreply.github.com&gt;
+
+* Update websites/M/MGServers/presence.ts
+
+Co-authored-by: Rhys &lt;64903135+EncryptedDev@users.noreply.github.com&gt;
+
+* hopefully fixed most of the mistakes
+
+@MastiderMast or @thevalleyy need to retest the premid
+Also I cant run prettifier/eslint, needs to be done by one of them too
+
+* fix whitespace
+
+* welp nvm
+
+* Fix webinterface presences
+
+* Update websites/M/MGServers/presence.ts
+
+Co-authored-by: Slowlife &lt;slowlife1165@gmail.com&gt;
+
+* Update websites/M/MGServers/presence.ts
+
+Co-authored-by: Slowlife &lt;slowlife1165@gmail.com&gt;
+
+* Update websites/M/MGServers/presence.ts
+
+Co-authored-by: Slowlife &lt;slowlife1165@gmail.com&gt;
+
+* hopefully all fixed
+
+* Update presence.ts
+
+* Update presence.ts
+
+Co-authored-by: Rhys &lt;64903135+EncryptedDev@users.noreply.github.com&gt;
+Co-authored-by: Masti &lt;65887954+MastiderMast@users.noreply.github.com&gt;
+Co-authored-by: TomatoCake &lt;60300461+DEVTomatoCake@users.noreply.github.com&gt;
+Co-authored-by: Slowlife &lt;slowlife1165@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e5bc763</div>
+                                        <div class="message">Added Khan Academy presence. (#4797)
+
+* Added Khan Academy presence.
+
+* Update metadata.json
+
+* Update metadata.json
+
+* Update metadata.json
+
+* Delete presence.js
+
+* Add files via upload
+
+* Add files via upload
+
+* Add files via upload
+
+* Update metadata.json
+
+* Add files via upload
+
+* Add files via upload
+
+* Update presence.ts
+
+* style(Khan Academy):*
+
+* Update websites/K/Khan Academy/dist/metadata.json
+
+Co-authored-by: Rhys &lt;64903135+EncryptedDev@users.noreply.github.com&gt;
+
+* Update websites/K/Khan Academy/dist/metadata.json
+
+Co-authored-by: Rhys &lt;64903135+EncryptedDev@users.noreply.github.com&gt;
+
+* Update metadata.json
+
+* Update presence.ts
+
+* Update presence.ts
+
+* Update presence.ts
+
+* Update presence.ts
+
+* Update presence.ts
+
+* Update presence.ts
+
+* Update presence.ts
+
+* Update presence.ts
+
+* Updated everything so it works without errors.
+
+* style(*)
+
+* fix(*)
+
+Co-authored-by: Rhys &lt;64903135+EncryptedDev@users.noreply.github.com&gt;
+Co-authored-by: Slowlife &lt;slowlife1165@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#568f8a3</div>
+                                        <div class="message">update: apple.com products (#4803)
+
+* change: Macbook Pro 16 -&gt; 14 and 16
+
+* change: iPhone 12 Pro is gone
+
+* add: iPhone 13 series
+
+* change: Apple Watch Series 6 -&gt; 7
+
+* add: Airpods 3rd gen
+
+* remove: HomePod
+
+* apple tv is not service
+
+* update: metadata
+
+i hate Microsoft's new keyboard IME</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#27184cc</div>
+                                        <div class="message">Update SimulatorHits to v2.0.0 (#4801)
+
+* Update SimulatorHits to v2.0.1
+
+Co-authored-by: KylePython &lt;kylebezar@gmail.com&gt;
+
+* Update Localization
+
+* Update Localization
+
+* Update Localization
+
+Let's try the merge again...
+
+* Update websites/S/SimulatorHits/dist/metadata.json
+
+Co-authored-by: Rhys &lt;64903135+EncryptedDev@users.noreply.github.com&gt;
+
+* Update websites/S/SimulatorHits/presence.ts
+
+Co-authored-by: Rhys &lt;64903135+EncryptedDev@users.noreply.github.com&gt;
+
+* Remove Unused Parameters and remove Buttons
+
+* Remove secondary News statement
+
+* Update websites/S/SimulatorHits/presence.ts
+
+Co-authored-by: Slowlife &lt;slowlife1165@gmail.com&gt;
+
+* Object Deconstruct Api Response
+
+* Remove trailing whitespace
+
+Co-authored-by: KylePython &lt;kylebezar@gmail.com&gt;
+Co-authored-by: Rhys &lt;64903135+EncryptedDev@users.noreply.github.com&gt;
+Co-authored-by: Slowlife &lt;slowlife1165@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1427d89</div>
+                                        <div class="message">feat: add dsc.gg presence. (#4781)
+
+* feat: add dsc.gg presence.
+
+* feat: added docs.dsc.gg.
+
+* refactor(Dsc.gg): formatted code.
+
+* feat(dsc.gg): added new tag.
+
+* feat(Dsc.gg): added settings.
+
+* style(dsc.gg)
+
+Ran prettier
+
+Co-authored-by: Rhys &lt;64903135+EncryptedDev@users.noreply.github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">VibeHabboCOM/v1</span>
                                     </div>
@@ -2599,26 +3083,6 @@ PHP - JS Developer</div>
                                     <div class="commit">
                                         <div class="sha">#4e60545</div>
                                         <div class="message">Create deploy.php</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">VibeHabboCOM/v1</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#10bfecc</div>
-                                        <div class="message">Testing Auto-Push</div>
                                     </div>
                                 </div>
                             </section>
